@@ -1,3 +1,5 @@
+//MADE BY DEVIN CHIN
+
 let meterPlaceholder = 0
 let soundMeter = 0
 let ifLedsOn = false
